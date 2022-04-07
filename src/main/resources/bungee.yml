@@ -1,0 +1,5 @@
+name: BCfallback
+version: '${project.version}'
+main: net.moonfly.bcfallback.BCfallback
+description: 一个BC端的FallBack插件,如果玩家所在的子服断线，将自动将玩家连接到大厅
+

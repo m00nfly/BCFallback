@@ -1,0 +1,11 @@
+#系统传送玩家到 FallBack 子服后，是否立即发送通知给玩家
+isNotify: true
+
+#系统通知中是否要包含源服务器 Kick玩家的原因信息
+isReson: true
+
+#要将玩家传送到的目的子服名称，必须与 BungeeCord 配置文件中定义的 Server 名称一致
+targetServer: "1.17生存服"
+
+
+
